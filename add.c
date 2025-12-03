@@ -10,7 +10,8 @@ int main() {
     scanf("%d %d", &num1, &num2);
 
     // Calculate the sum
-    sum = num1 + num2;
+    sum = num1 + num2; 
+    // nandu choudary
 
     // Print the sum
     printf("Sum of %d and %d is: %d\n", num1, num2, sum);
